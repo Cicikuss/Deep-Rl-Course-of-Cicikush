@@ -8,3 +8,5 @@ Bu Github reposunun amacı Hugging Face 'deki Deep RL kursunda yaptığım model
 - **[Cicikush/q-FrozenLake-v1-4x4-noSlippery](https://huggingface.co/Cicikush/q-FrozenLake-v1-4x4-noSlippery)**
 - **[Cicikush/PPO-LunarLander-v2](https://huggingface.co/Cicikush/PPO-LunarLander-v2)**
 - **[Cicikush/dqn-SpaceInvadersNoFrameskip-v4](https://huggingface.co/Cicikush/dqn-SpaceInvadersNoFrameskip-v4)**
+- **[Cicikush/ppo-SnowballTarget](https://huggingface.co/Cicikush/ppo-SnowballTarget)**
+- **[Cicikush/PyramidsRND](https://huggingface.co/Cicikush/PyramidsRND)**
